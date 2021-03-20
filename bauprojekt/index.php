@@ -1,5 +1,3 @@
 <?php
-
-echo 'Hello Framework!';
-naber
+echo 'Hello Framework!'; 
 ?> 
