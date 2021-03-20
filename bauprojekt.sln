@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1300
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "bauprojekt", "..\..\..\..\xampp\htdocs\bauprojekt\bauprojekt\bauprojekt\bauprojekt.phpproj", "{D84AD549-7BD8-422F-AC38-D4F164286B58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D84AD549-7BD8-422F-AC38-D4F164286B58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D84AD549-7BD8-422F-AC38-D4F164286B58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {426E77A2-6C32-4F79-A013-C9D26C8B474B}
+	EndGlobalSection
+EndGlobal
